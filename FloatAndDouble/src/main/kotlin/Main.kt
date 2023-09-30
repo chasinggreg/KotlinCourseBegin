@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val myNumber = 2.5f
     println(myNumber)
 }
